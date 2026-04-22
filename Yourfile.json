@@ -100,5 +100,11 @@
         "key": "akt123",
         "expirydate": "05-05-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "fae3cbde4e89b102",
+        "key": "AKT123",
+        "expirydate": "23-04-2026",
+        "Allowoffline": false
     }
 ]
