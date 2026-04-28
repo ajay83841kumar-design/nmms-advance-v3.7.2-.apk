@@ -26,7 +26,7 @@
     {
         "device_id": "e8ca3fb72841be27",
         "key": "abc123",
-        "expirydate": "28-04-2026",
+        "expirydate": "30-04-2026",
         "Allowoffline": false
     },
     {
@@ -117,6 +117,12 @@
         "device_id": "1b90fcb77d2d5721",
         "key": "AKT2233",
         "expirydate": "25-05-2026",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "75064bbbf946419f",
+        "key": "AKT2244",
+        "expirydate": "29-04-2026",
         "Allowoffline": false
     }
 ]
